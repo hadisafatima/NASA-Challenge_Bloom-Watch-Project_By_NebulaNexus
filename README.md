@@ -141,3 +141,5 @@ Interactive dropdowns allow users to predict bloom area by selecting:
 - Flower Type
 - Geometry Type
 
+#### AI Usage:
+Utilized chatgpt for extracting demonstration and descriptions related to dataset cleaning, visuals selection and insights extraction.
